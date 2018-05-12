@@ -1,0 +1,11 @@
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\bin\Debug\EzCode.exe.config
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\bin\Debug\EzCode.exe
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\bin\Debug\EzCode.pdb
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.csprojResolveAssemblyReference.cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.frmLogin.resources
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.Properties.Resources.resources
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.csproj.GenerateResource.Cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.csproj.CoreCompileInputs.cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.exe
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\EzCode\EzCode\obj\Debug\EzCode.pdb
